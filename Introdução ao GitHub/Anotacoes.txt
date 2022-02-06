@@ -1,0 +1,1 @@
+Terminal extendido para uso do git - https://git-scm.com/downloads
